@@ -1,3 +1,5 @@
 .env
 .flaskenv
 .vscode/launch.json
+*/__pycache__
+*.pyc

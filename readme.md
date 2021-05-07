@@ -1,0 +1,1 @@
+A clean structure for rest apis in flask
